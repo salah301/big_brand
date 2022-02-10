@@ -1,0 +1,45 @@
+.img{
+    width: 60px;
+    padding-right: 0px;
+ 
+    
+}
+.font{
+    font-size: 50px;
+     
+}
+.col-ms-12{
+    background-color: white;
+    border: solid 2px red; 
+    padding: 5px 10px;
+    border-radius: 20px;
+}
+ .color{
+
+    background-color: rgb(229, 233, 225);
+ }
+ .wats{
+     background-color: green;
+ }
+.ins{
+    border: solid 2px red; 
+    padding: 0px 10px;
+    border-radius: 20px;
+    background-color: #cf235c;
+}
+.hambozo{
+   
+ display: flex;
+ justify-content: space-evenly;
+ align-items: center;
+}
+ .tik{
+    border: solid 2px red; 
+    padding: 0px 10px;
+    border-radius: 20px;
+ }
+ .face{
+    border-radius: 20px;
+    padding: 0px 10px;
+ }
+ 
